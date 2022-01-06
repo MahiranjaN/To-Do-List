@@ -1,1 +1,1 @@
-This repository contains the code of a project, where I have created the frontend part of a food delivery website using only HTML5 and CSS3. Link to the Deployed Website: 
+This repository contains the code of a project, where I have created the frontend part of a food delivery website using only HTML5 and CSS3. Link to the Deployed Website: https://mahiranjan.github.io/To-Do-List/
